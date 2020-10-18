@@ -7,3 +7,5 @@ line5
 Add line1
 
 topic-A
+
+topic-B
